@@ -1,3 +1,9 @@
+# Gathering weather data for JHU's COVID19 infection data
+
+Further description coming soon.
+
+
+
 # 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 
 
