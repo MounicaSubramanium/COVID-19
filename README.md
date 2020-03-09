@@ -2,6 +2,13 @@
 
 Further description coming soon.
 
+Weather data is very generously Powered by Dark Sky: https://darksky.net/poweredby/
+
+
+
+
+
+
 
 
 # 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
