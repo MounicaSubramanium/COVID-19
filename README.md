@@ -4,12 +4,26 @@ Further description coming soon.
 
 Weather data is very generously Powered by Dark Sky: https://darksky.net/poweredby/
 
+JHU's time_series_19-covid-Confirmed.csv was taken, and repurposed it to get weather data for the dates and locations that are listed.
+
+The following csv files are generated:
+  tMax.csv       - pulling 'temperatureHigh' from API call
+  tMin.csv       - pulling 'temperatureLow' from API call
+  humidity.csv   - pulling 'humidity' from API call, and multiplying by 100
+  uv.csv         - pulling 'uvIndex' from API call
+  cloud.csv      - pulling 'cloudCover' from API call and mulitplying by 100
+  precip.csv     - pulling 'precipProbability' from API call and multiplying by 100
+  dew.csv        - pulling 'dewPoint' from API call
+  pressure.csv   - pulling 'pressure" from API call
+  wind.csv       - pulling 'windSpeed' from API call
+  ozone.csv      - pulling 'ozone' from API call
+
+Please see https://darksky.net/dev/docs for meaning and units of each value. Where applicable, units are pulled in SI units.
+
+The JSON returned hourly values and daily values. For the purposes of this project, daily values were used. Each value recorded in each cell is the mediian value for the day of the given column, along with the 14 preceding days, for the location of the given row.
 
 
-
-
-
-
+# Below is JHU's original information for the README.md
 
 # 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 
