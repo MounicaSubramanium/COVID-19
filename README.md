@@ -1,7 +1,5 @@
 # Gathering weather data for JHU's COVID19 infection data
 
-# Gathering weather data for JHU's COVID19 infection data
-
 Further description coming soon.
 
 Weather data is very generously Powered by Dark Sky: https://darksky.net/poweredby/
