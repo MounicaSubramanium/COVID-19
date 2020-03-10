@@ -23,8 +23,9 @@ JHU's time_series_19-covid-Confirmed.csv was taken, and repurposed it to get wea
 Please see https://darksky.net/dev/docs for meaning and units of each value. Where applicable, units are pulled in SI units.
 
 
-The JSON returned hourly values and daily values. For the purposes of this project, daily values were used. The header for each column was taken and passed as a Unix time value to retrieve data for that date.
+The JSON returned hourly values and daily values. For the purposes of this project, daily values were used. The header for each column was taken and passed as a Unix time value to retrieve data for that date.<br><br><br>
 
+Also, don't bother trying anything with my API key. It is reset with every push. If you want to try it for yourself, Dark Sky very generously offers 1,000 free API calls per day. https://darksky.net/poweredby/
 
 
 
