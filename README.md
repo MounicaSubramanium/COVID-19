@@ -7,7 +7,7 @@ Weather data is very generously Powered by Dark Sky: https://darksky.net/powered
 
 JHU's time_series_19-covid-Confirmed.csv was taken, and repurposed it to get weather data for the dates and locations that are listed.
 
-<b>The following csv files are generated:<br></b>
+<b>The following csv files are generated in the './csv/' folder:<br></b>
   tMax.csv       - pulling 'temperatureHigh' from API call<br>
   tMin.csv       - pulling 'temperatureLow' from API call<br>
   humidity.csv   - pulling 'humidity' from API call, and multiplying by 100<br>
