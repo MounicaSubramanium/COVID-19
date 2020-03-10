@@ -1,5 +1,7 @@
 # Gathering weather data for JHU's COVID19 infection data
 
+I realized this morning that a part of my approach is kind of a) faulty and b) resource-intensive when it doesn't have to be, so I'm going to re-work some of the code and structure and what-not later. Also, I'll have to investigate why some of these Chinese cities aren't returning data.<br>
+<br>
 Further description coming soon.
 
 Weather data is very generously Powered by Dark Sky: https://darksky.net/poweredby/
