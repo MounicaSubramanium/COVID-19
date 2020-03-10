@@ -1,6 +1,5 @@
 # Gathering weather data for JHU's COVID19 infection data
 
-I realized this morning that a part of my approach is kind of a) faulty and b) resource-intensive when it doesn't have to be, so I'm going to re-work some of the code and structure and what-not later. Also, I'll have to investigate why some of these Chinese cities aren't returning data.<br>
 <br>
 Further description coming soon.
 
@@ -24,7 +23,7 @@ JHU's time_series_19-covid-Confirmed.csv was taken, and repurposed it to get wea
 Please see https://darksky.net/dev/docs for meaning and units of each value. Where applicable, units are pulled in SI units.
 
 
-The JSON returned hourly values and daily values. For the purposes of this project, daily values were used. Each value recorded in each cell is the mediian value for the day of the given column, along with the 14 preceding days, for the location of the given row.
+The JSON returned hourly values and daily values. For the purposes of this project, daily values were used. The header for each column was taken and passed as a Unix time value to retrieve data for that date.
 
 
 
