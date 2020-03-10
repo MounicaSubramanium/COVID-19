@@ -28,10 +28,9 @@ The JSON returned hourly values and daily values. For the purposes of this proje
 
 
 
+
+=======
 # Below is JHU's original information for the README.md
-
-
-
 
 
 # 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
