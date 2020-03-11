@@ -11,7 +11,7 @@ The following csv files are included:<br><br>
 'temperatureLow' field, provided as degrees Celsius<br><br>
 
 <b>humidity.csv<br></b>
-'humidity' field, provided as relative humidity (percente out of 100)<br><br>
+'humidity' field, provided as relative humidity (percent out of 100)<br><br>
 
 <b>uv.csv<br></b>
 'uvIndex' field, provided as UV index. Honestly, I'm not sure what the units here are.<br><br>
