@@ -29,7 +29,7 @@ Frankly, I don't know enough about this to know if the numbers look like Fahrenh
 <b>pressure.csv<br></b>
 'pressure" field, provided as sea-level air pressure in millibars<br><br>
 
-<b?wind.csv</b><br?
+<b>wind.csv</b><br>
 'windSpeed' field, provided as wind speed in miles per hour (according to the documentation). Again as above,<br>
 I made the request for SI units. I don't know enough to know which one is more likely.<br><br>
 
