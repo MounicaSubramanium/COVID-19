@@ -1,7 +1,9 @@
 # Gathering weather data for JHU's COVID19 infection data
 
 <br>
-Further description coming soon.
+Further description coming soon.<br>
+<b>The data files are in the './csv' folder></b><br>
+This is all just raw data. I have not done any analysis yet.<br>
 
 Weather data is very generously Powered by Dark Sky: https://darksky.net/poweredby/
 
