@@ -5,7 +5,7 @@ The data is all very generously Powered by Dark Sky: https://darksky.net/powered
 
 The following csv files are included:<br><br>
 <b>tMax.csv<br></b>
-'temperatureHigh' field, proveded as degrees Celsius<br><br>
+'temperatureHigh' field, provided as degrees Celsius<br><br>
 
 <b>tMin.csv<br></b>
 'temperatureLow' field, provided as degrees Celsius<br><br>
