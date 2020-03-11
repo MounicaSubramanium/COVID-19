@@ -34,4 +34,10 @@ Frankly, I don't know enough about this to know if the numbers look like Fahrenh
 I made the request for SI units. I don't know enough to know which one is more likely.<br><br>
 
 <b>ozone.csv<br></b>
-'ozone' field, provided as columnar density of total atmospheric ozone at the given time in Dobson units
+'ozone' field, provided as columnar density of total atmospheric ozone at the given time in Dobson units<br><br>
+
+<b>sunrise.csv</b><br>
+'sunriseTime' field, provided as Unix time (https://en.wikipedia.org/wiki/Unix_time)<br><br>
+
+<b>sunset.csv</b><br>
+'sunsetTime' field, provided as Unix time<br><br>
