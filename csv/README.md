@@ -1,3 +1,5 @@
+<b>Values of -1000 are dummy values for when there was some sort of error in the JSON response.<br>
+This will eventually be investigated and corrected. The -1000 values are not valid and should be ignored for now.</b><br><br>
 Please see https://darksky.net/dev/docs for description of the various fields that are captured.<br>
 All of the following details pertain to data from the 'daily' element in the JSON file that is returned.<br>
 Where applicable, the units that are returned are in SI units<br><br>
