@@ -1,8 +1,8 @@
 # Gathering weather data for JHU's COVID19 infection data
 
 <br>
-Further description coming soon.<br>
-<b>The data files are in the './csv' folder></b><br>
+<br>
+<b>The data files are in the './csv' folder</b><br>
 This is all just raw data. I have not done any analysis yet.<br>
 
 Weather data is very generously Powered by Dark Sky: https://darksky.net/poweredby/
@@ -23,7 +23,8 @@ JHU's time_series_19-covid-Confirmed.csv was taken, and repurposed it to get wea
   sunrise.csv    - pulling 'sunriseTime' from API call<br>
   sunset.csv     - pulling 'sunsetTime' from API call<br>
   
-
+<b>Values of -1000 are dummy values for when there was some sort of error in the JSON response.<br>
+This will eventually be investigated and corrected.</b><br><br>
 Please see https://darksky.net/dev/docs for meaning and units of each value. Where applicable, units are pulled in SI units.
 
 
