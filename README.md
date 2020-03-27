@@ -2,6 +2,13 @@
 
 <br>
 <br>
+---<br>
+update 3/27/2020: JHU has changed some of its grouping for certain regions and/or countries.<br>
+I may start to manually break down some of the more significant regions in the US,<br>
+Such as Seattle, NYC, etc, and elsewhere. I need to think about how I want to do this.<br>
+---<br>
+<br>
+<br>
 <b>The data files are in the './csv' folder</b><br>
 This is all just raw data. I have not done any analysis yet.<br>
 
