@@ -1,0 +1,8 @@
+Potential modification to make:
+
+* Write csv files with each pull, instead of only at the end of execution.
+* Adjust the main loop such that it only
+  does data pull if the cell == 0.
+* With the two above points, one should be able
+  to resume a run of data pulls in the case of some
+  sort of runtime error that interrupts execution.
