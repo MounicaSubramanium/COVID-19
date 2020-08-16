@@ -26,6 +26,8 @@ Weather data is very generously Powered by Dark Sky: https://darksky.net/powered
 
 JHU's time_series_19-covid-Confirmed.csv was taken, and repurposed it to get weather data for the dates and locations that are listed.
 
+Please see https://darksky.net/dev/docs and/or ./csv/READMD.md for meaning and units of each value. Where applicable, units are pulled in SI units.
+
 <b>The following csv files are generated in the './csv' folder:<br></b>
   tMax_US.csv       - pulling 'temperatureHigh' from API call<br>
   tMin_US.csv       - pulling 'temperatureLow' from API call<br>
@@ -44,7 +46,6 @@ JHU's time_series_19-covid-Confirmed.csv was taken, and repurposed it to get wea
 Also, make note that the Latitude and Longitude for some locations/rows are 0, 0.<br>
 The weather data for those will not be accurate, because the data are pulled based on the <br>
 provided Latitude and Longitude, not the place name.</b><br><br>
-Please see https://darksky.net/dev/docs for meaning and units of each value. Where applicable, units are pulled in SI units.
 
 
 The JSON returned hourly values and daily values. For the purposes of this project, daily values were used. The header for each column was taken and passed as a Unix time value to retrieve data for that date.<br><br><br>
@@ -56,7 +57,7 @@ Also, don't bother trying anything with my API key. It is reset with every push.
 =======
 # Read the README file from the original JHU branch at the following link: https://github.com/CSSEGISandData/COVID-19/blob/master/README.md <br>
 <br>
-Their original readme invluded the following Acknowledgements and Terms of Use:<br><br> 
+Their original readme invluded the following Acknowledgements and Terms of Use:<br><br>
 <b>Acknowledgements:</b>
 We are grateful to the following organizations for supporting our Center’s COVID-19 mapping and modeling efforts:
 Financial Support: Johns Hopkins University, National Science Foundation (NSF), Bloomberg Philanthropies, Stavros Niarchos Foundation;
