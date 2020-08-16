@@ -6,3 +6,6 @@ Potential modification to make:
 * With the two above points, one should be able
   to resume a run of data pulls in the case of some
   sort of runtime error that interrupts execution.
+
+* writing to csv with each API call is too slow, it turns out. 
+  It should probably be modified to write every 1,000 calls or so.
