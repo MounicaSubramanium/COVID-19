@@ -6,13 +6,10 @@
 ---<br>
 <b>update 8/15/2020:</b> It has been a number of months since I've done an update.<br>
 JHU has two main timeline series: US and global.<br>
-For right now, this update is for the US timeseries. Maybe sometime soon,<br>
-I'll also do a global breakout. We'll see.<br>
-I understand that some people have run some analyses on these data. Please see the note below regarding<br>
-inaccurate Latitude and Longitude for some locations (and therefore inaccurate weather data for some locations).<br>
-Again, I mention that although this is a good faith effort on my part, none of my work has been<br>
-reviewed or validated (at least to my knowledge).<br>
---<br>
+For right now, this update is for the US timeseries. Maybe sometime soon, I'll also do a global breakout. We'll see.<br>
+I understand that some people have run some analyses on these data. Please see the note below regarding how some locations have inaccurate Latitude and Longitude (and therefore inaccurate weather data).<br>
+Again, I mention that although this is a good faith effort on my part, none of my work has been reviewed or validated (at least to my knowledge).<br>
+---<br>
 <b>update 3/27/2020:</b> JHU has changed some of its grouping for certain regions and/or countries.<br>
 I may start to manually break down some of the more significant regions in the US,<br>
 Such as Seattle, NYC, etc, and elsewhere. I need to think about how I want to do this.<br>
@@ -26,7 +23,7 @@ Weather data is very generously Powered by Dark Sky: https://darksky.net/powered
 
 JHU's time_series_19-covid-Confirmed.csv was taken, and repurposed it to get weather data for the dates and locations that are listed.
 
-Please see https://darksky.net/dev/docs and/or ./csv/READMD.md for meaning and units of each value. Where applicable, units are pulled in SI units.
+Please see https://darksky.net/dev/docs and/or https://github.com/imantsm/COVID-19/blob/master/csv/README.md for the meaning and unit of each value. Where applicable, units are pulled in SI units.
 
 <b>The following csv files are generated in the './csv' folder:<br></b>
   tMax_US.csv       - pulling 'temperatureHigh' from API call<br>
