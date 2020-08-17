@@ -12,4 +12,11 @@ Done
   It should probably be modified to write every 1,000 calls or so.
 Done
 
-* Maybe remove entries with coordinates of 0,0
+* Maybe remove entries with coordinates of 0,0. There are a bunch of them, and
+  they are meaningless for these purposes here, and they wind up costing
+  hundreds, if not thousands, of API calls (and time)
+
+* Even with writing files after ever 1,000 calls, this isn't fast enough.
+  Some of the CSV files are approaching 10MB in size, if not bigger.
+  Maybe I can do the file writing with a parallel thread or process or
+  something.
