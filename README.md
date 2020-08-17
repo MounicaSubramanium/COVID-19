@@ -4,7 +4,7 @@
 <br>
 <br>
 ---<br>
-update 8/15/2020: It has been a number of months since I've done an update.<br>
+<b>update 8/15/2020:</b> It has been a number of months since I've done an update.<br>
 JHU has two main timeline series: US and global.<br>
 For right now, this update is for the US timeseries. Maybe sometime soon,<br>
 I'll also do a global breakout. We'll see.<br>
@@ -13,7 +13,7 @@ inaccurate Latitude and Longitude for some locations (and therefore inaccurate w
 Again, I mention that although this is a good faith effort on my part, none of my work has been<br>
 reviewed or validated (at least to my knowledge).<br>
 --<br>
-update 3/27/2020: JHU has changed some of its grouping for certain regions and/or countries.<br>
+<b>update 3/27/2020:</b> JHU has changed some of its grouping for certain regions and/or countries.<br>
 I may start to manually break down some of the more significant regions in the US,<br>
 Such as Seattle, NYC, etc, and elsewhere. I need to think about how I want to do this.<br>
 ---<br>
