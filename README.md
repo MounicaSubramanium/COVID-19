@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # Gathering weather data for JHU's COVID19 infection data
 
 <br>
 <br>
-<--<br>
+---<br>
 update 8/15/2020: It has been a number of months since I've done an update.<br>
 JHU has two main timeline series: US and global.<br>
 For right now, this update is for the US timeseries. Maybe sometime soon,<br>
@@ -11,7 +11,7 @@ I'll also do a global breakout. We'll see.<br>
 I understand that some people have run some analyses on these data. Please see the note below regarding<br>
 inaccurate Latitude and Longitude for some locations (and therefore inaccurate weather data for some locations).<br>
 Again, I mention that although this is a good faith effort on my part, none of my work has been<br>
-reviewed or validated (at least to my knowledge).
+reviewed or validated (at least to my knowledge).<br>
 --<br>
 update 3/27/2020: JHU has changed some of its grouping for certain regions and/or countries.<br>
 I may start to manually break down some of the more significant regions in the US,<br>
