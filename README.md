@@ -4,6 +4,9 @@
 <br>
 <br>
 ---<br>
+<b>update 8/29/2020:</b> Added CSV files for JHU's Global locations.<br>
+Many of these locations are entire countries, so they probably aren't practically useful for many data analysis purposes. Please keep this in mind.<br>
+---<br>
 <b>update 8/15/2020:</b> It has been a number of months since I've done an update.<br>
 JHU has two main timeline series: US and global.<br>
 For right now, this update is for the US timeseries. Maybe sometime soon, I'll also do a global breakout. We'll see.<br>
