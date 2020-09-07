@@ -2,7 +2,17 @@
 # Gathering weather data for JHU's COVID19 infection data
 
 <br>
+<b>The CSV files of the weather data are in the './csv' directory</b><br>
 <br>
+---<br>
+<b>update 9/6/2020:</b> Added dates for the rest of August 2020.<br><br>
+Also, data collection changed to gather data into a SQLite database, and then exporting to CSV,<br>
+instead of writing directly to CSV files. This actually speeds up the runtime, as there is no longer a need to write<br>
+files during runtime to save progress. If you want to see the database, it's in './sql/weather.db'.<br>
+It's nothing fancy. It's just the different tables of the US and Global data points.<br><br>
+A little housekeeping in trying to organize some of the workspace has been done, too. The Jupyter Notebooks<br>
+used in this process have been moved to the './notebooks' directory. Also, in the './misc' folder, I've put<br>
+a document where I've listed various papers/publications that I've found that reference the data here.<br>
 ---<br>
 <b>update 8/29/2020:</b> Added CSV files for JHU's Global locations.<br>
 Many of these locations are entire countries, so they probably aren't practically useful for many data analysis purposes. Please keep this in mind.<br>
@@ -19,7 +29,7 @@ Such as Seattle, NYC, etc, and elsewhere. I need to think about how I want to do
 ---<br>
 <br>
 <br>
-<b>The generated files with the weather data are in the './csv' folder</b><br>
+<b>The generated files with the weather data are in the './csv' directory</b><br>
 This is all just raw data. I have not done any analysis yet.<br>
 
 Weather data is very generously Powered by Dark Sky: https://darksky.net/poweredby/
