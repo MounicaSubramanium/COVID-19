@@ -4,12 +4,16 @@
 <br>
 <b>The CSV files of the weather data are in the './csv' directory</b><br>
 <br>
+Please consider sponsoring this project, as the API calls to gather the data points do cost money.<br>
+Click on the 'Sponsor' button on the repository page to learn more.<br><br>
 ---<br>
 <b>update 9/6/2020:</b> Added dates for the rest of August 2020.<br><br>
 Also, data collection changed to gather data into a SQLite database, and then exporting to CSV,<br>
 instead of writing directly to CSV files. This actually speeds up the runtime, as there is no longer a need to write<br>
 files during runtime to save progress. If you want to see the database, it's in './sql/weather.db'.<br>
-It's nothing fancy. It's just the different tables of the US and Global data points.<br><br>
+It's nothing fancy. It's just the different tables of the US and Global data points.<br>
+Given this change, the more recently gathered data points have more significant figures, as there are now<br>
+decimal points where there weren't before. <br><br>
 A little housekeeping in trying to organize some of the workspace has been done, too. The Jupyter Notebooks<br>
 used in this process have been moved to the './notebooks' directory. Also, in the './misc' folder, I've put<br>
 a document where I've listed various papers/publications that I've found that reference the data here.<br>
