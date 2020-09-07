@@ -1,4 +1,3 @@
-
 # Gathering weather data for JHU's COVID19 infection data
 
 <br>
